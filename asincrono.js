@@ -7,8 +7,8 @@ function promesaEjemplo(){
 }
 
 async function asincrona(){
-    //const mensaje= await promesaEjemplo();
-    const mensaje= promesaEjemplo();
+    const mensaje= await promesaEjemplo();
+    //const mensaje= promesaEjemplo();
     console.log(mensaje);
 }
 
