@@ -1,8 +1,1 @@
-Alejandro
-Mónica
-Antonia
-Juan ángel
-Lorenzo
-Manuel
-Silvia
-Yolanda
+Este es el curso de NodeJSdek CIDEM
